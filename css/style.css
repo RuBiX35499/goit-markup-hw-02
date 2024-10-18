@@ -47,7 +47,9 @@ footer{
     font-style: normal;
 }
 .addres-menu-link{
+    line-height: 1.5;
     color:#434455;
+    letter-spacing: 0.02em
 }
 .addres-menu-link:hover{
     color: #404bbf
