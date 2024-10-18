@@ -103,7 +103,7 @@ footer{
     color: #2e2f42;
     text-transform: capitalize;
 }
-.team-menu-list{
+.team-menu-item{
     background-color: #FFFFFF;
 }
 .team-item-subtitle{
@@ -137,9 +137,6 @@ footer{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.portfolio-item-img{
-    width: 360;
-}
 .portfolio-item-text{
     font-weight: 400;
     font-size: 16px;
@@ -149,16 +146,18 @@ footer{
 }
 .footer-logo{
     font-family: "Raleway", sans-serif;
-    font-weight: 700;
+    font-weight: 700 ;
     font-size: 18px;
-    line-height: 117%;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.footer-accent{
+    color:#f4f4fd;
+}
 .footer-text{
-    font-size: 16px;
-    line-height: 1.5%;
-    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #F4F4FD;
+    letter-spacing: 0.02em
 }
